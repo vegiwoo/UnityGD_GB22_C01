@@ -3,7 +3,7 @@ using System.Numerics;
 using Task03Lib.Numbers;
 
 
-namespace Task03Lib; 
+namespace Task03Lib;
 
 /// <summary>
 /// Класс, представляющий комплексное число.
