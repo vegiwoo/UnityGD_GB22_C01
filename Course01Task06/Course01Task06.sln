@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course01Task06", "Course01Task06\Course01Task06.csproj", "{0D8DA405-D6B7-4282-97C0-90FCE548E931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task06Lib", "Task06Lib\Task06Lib.csproj", "{7C408684-3EE5-4631-B275-B641B8CC3FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8DA405-D6B7-4282-97C0-90FCE548E931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8DA405-D6B7-4282-97C0-90FCE548E931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8DA405-D6B7-4282-97C0-90FCE548E931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8DA405-D6B7-4282-97C0-90FCE548E931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C408684-3EE5-4631-B275-B641B8CC3FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C408684-3EE5-4631-B275-B641B8CC3FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C408684-3EE5-4631-B275-B641B8CC3FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C408684-3EE5-4631-B275-B641B8CC3FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
