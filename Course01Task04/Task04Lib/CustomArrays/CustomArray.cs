@@ -1,12 +1,9 @@
 #nullable enable
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using System.IO;
 
-namespace Task04Lib.CustomArrays;
-
-public abstract class CustomArray {
+namespace Task04Lib.CustomArrays {
+    public abstract class CustomArray {
     #region Variables and constants
     protected readonly Random randomizer = new Random();
     protected abstract string FileName { get; set; }
@@ -144,4 +141,6 @@ public abstract class CustomArray {
         return true;
     }
     #endregion
+}
+    
 }
