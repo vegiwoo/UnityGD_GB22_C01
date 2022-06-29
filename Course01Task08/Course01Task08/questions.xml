@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Question>
+        <Text>Зайцы устраивают гнёзда</Text>
+        <Answer>false</Answer>
+    </Question>
+    <Question>
+        <Text>Пингвин – это птица</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Еж есть грибы</Text>
+        <Answer>false</Answer>
+    </Question>
+    <Question>
+        <Text>Муравьи плавают</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>У комаров есть зубы</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Тигры умеют плавать</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Роскошный хвост носят самцы и самки павлина</Text>
+        <Answer>false</Answer>
+    </Question>
+    <Question>
+        <Text>Перед дождем птицы перестают петь</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Птицы зимуют в скворечниках</Text>
+        <Answer>false</Answer>
+    </Question>
+    <Question>
+        <Text>Кровью питаются только самки комаров</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>У паука 8 ног</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Индийский слон меньше африканского</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Белый медведь - самый сильный хищный зверь</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Вылупившийся кукушонок выбрасывает из гнезда остальные яйца</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Ворона — родственница сороки</Text>
+        <Answer>false</Answer>
+    </Question>
+    <Question>
+        <Text>Змеи ничего не слышат</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Бурые медведи едят рыбу</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Cуществует рыба-ножницы</Text>
+        <Answer>false</Answer>
+    </Question>
+    <Question>
+        <Text>Не существует рыбы-ножа и рыбы-иглы</Text>
+        <Answer>false</Answer>
+    </Question>
+    <Question>
+        <Text>Змее нужен язык, чтобы чувствовать запахи</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Кукушка кукует, не открывая клюва</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Яйцо аиста самое крупное</Text>
+        <Answer>false</Answer>
+    </Question>
+    <Question>
+        <Text>У птиц нет памяти</Text>
+        <Answer>false</Answer>
+    </Question>
+    <Question>
+        <Text>Комары приносят пользу</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Некоторые животные по полгода живут без пищи</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Лошадь даёт молоко</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>У жука 4 крыла</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Из зверей никто не охотится на тигра</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Лягушка пьет ногой</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>Акулу называют морской щукой</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>На отпечатке следа кошек и рысей нет когтей</Text>
+        <Answer>true</Answer>
+    </Question>
+    <Question>
+        <Text>У бобров и зайцев каждый день растут зубы</Text>
+        <Answer>true</Answer>
+    </Question>
+</ArrayOfQuestion>
